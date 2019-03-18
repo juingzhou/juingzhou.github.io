@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>juingzhou博客</title>
+  <title>JuingZhou博客</title>
   
   <subtitle>Notes</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.zhou2j.top/"/>
-  <updated>2019-03-17T12:24:41.153Z</updated>
+  <updated>2019-03-18T01:53:23.622Z</updated>
   <id>http://www.zhou2j.top/</id>
   
   <author>
-    <name>Juingzhou</name>
+    <name>JuingZhou</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>你好, juingzhou</title>
+    <title>你好, JuingZhou</title>
     <link href="http://www.zhou2j.top/2019/03/17/hello-world/"/>
     <id>http://www.zhou2j.top/2019/03/17/hello-world/</id>
     <published>2019-03-17T11:26:31.926Z</published>
-    <updated>2019-03-17T12:24:41.153Z</updated>
+    <updated>2019-03-18T01:53:23.622Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to juingzhou’s blog</p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to JuingZhou博客</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to juingzhou’s blog&lt;/p&gt;
+        &lt;p&gt;Welcome to JuingZhou博客&lt;/p&gt;
 
       
     
